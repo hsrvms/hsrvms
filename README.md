@@ -8,7 +8,7 @@ I have been learning to code for 1 year after switching career and started with 
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [hsrvms@gmail.com](mailto:hsrvms@gmail.com)
-* 🧠  I'm learning Next.js, Java
+* 🧠  I'm learning NestJS
 * 🤝  I'm open to collaborating on projects which can take me up to next level
 
 ### Skills
