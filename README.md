@@ -4,7 +4,7 @@ Hi! My name is Husrev Mustafa LALE
 Full-Stack Developer
 --------------------
 
-I have been learning to code for 1 year after switching career and started with front-end, but I really found a passion for back-end development.
+I have been learning to code for 2 year after switching career and started with front-end, but I really found a passion for back-end development.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [hsrvms@gmail.com](mailto:hsrvms@gmail.com)
